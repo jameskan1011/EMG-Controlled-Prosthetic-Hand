@@ -29,7 +29,7 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/822391f9-76e8-42d1-9fbb-bf10cdf9c174" autoplay loop muted playsinline width="100"></video>
+  <video src="https://github.com/user-attachments/assets/7f13d15d-7b53-4090-8c28-4c555c97ecc5" autoplay loop muted playsinline width="100"></video>
 </p>
 
 
@@ -44,6 +44,14 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 ---
 
 ## 🧠 Features
+<h3 align="center">Sensor Feedback</h3>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/780776b2-6f83-41ed-af58-4b2ff6226d09" width="350" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/b8394736-d9b1-4a1b-b97f-0292cb9dd101" width="350" />
+</p>
+![photo_2025-04-25_01-53-26](https://github.com/user-attachments/assets/56d0cb88-ba74-4a7c-ac9e-b05377ec0a86)
 
 - **Pinch and Power Grip Control:** Specific EMG signals trigger predefined hand movements — either pinch or power grip — based on which sensor is activated.
 - **Wireless Haptic Feedback:** FSR sensors on the prosthetic fingers detect contact force and activate a vibration motor on the wearable in real-time.
