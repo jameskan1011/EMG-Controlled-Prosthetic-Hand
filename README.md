@@ -3,11 +3,18 @@
 This project features a wireless prosthetic hand system powered by EMG signal control. A wearable glove captures muscle activity and translates it into movement commands for a robotic hand. At the same time, force sensors on the robotic fingers detect contact pressure and send feedback signals wirelessly, activating a vibration motor on the glove. The entire bidirectional communication is handled efficiently using the ESP-NOW protocol.
 
 ---
+Prosthetic Hand
+<img width="577" height="682" alt="image" src="https://github.com/user-attachments/assets/3f7c741d-932a-406e-aa4f-482295ec2772" />
+
+EMG Sensor Device
+<img width="544" height="589" alt="image" src="https://github.com/user-attachments/assets/8de45357-c73d-4ae2-bb90-283512019173" />
+<img width="472" height="501" alt="image" src="https://github.com/user-attachments/assets/22d92ef4-f10d-440e-9ab8-04a788641ba1" />
 
 ## 📽️ Demonstration
 
-> Example:  
-> <video src="media/demo-glove.webm" autoplay loop muted playsinline width="600"></video>
+> Grasping Objects using Pinch and Power Grip:  
+> <img width="856" height="545" alt="image" src="https://github.com/user-attachments/assets/c35c996a-1444-4b48-808f-dfc08860345b" />
+
 
 ---
 
