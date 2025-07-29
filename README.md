@@ -1,4 +1,4 @@
-# 🖐️ EMG-Controlled Prosthetic Hand
+# EMG-Controlled Prosthetic Hand
 
 This project features a **wireless prosthetic hand system** powered by EMG signal control.  
 A wearable glove captures muscle activity and translates it into movement commands for a robotic hand.  
@@ -7,7 +7,7 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 ---
 
-## 🤖 Prosthetic Hand
+## 🖐️ Prosthetic Hand
 
 <p align="center">
   <img width="400" alt="Prosthetic Hand" src="https://github.com/user-attachments/assets/3f7c741d-932a-406e-aa4f-482295ec2772" />
@@ -15,7 +15,7 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 ---
 
-## 🧤 EMG Sensor Glove
+## 🧤 EMG Sensor Device
 
 <p align="center">
   <img width="300" alt="EMG Sensor Glove Front" src="https://github.com/user-attachments/assets/8de45357-c73d-4ae2-bb90-283512019173" />
