@@ -46,12 +46,12 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 ## 🧠 Features
 <h3 align="center">Sensor Feedback</h3>
 <p align="center"><em>
-Soft TPU material is layered above the fingertip and force sensor, allowing analog pressure values to be read when compressed. This design enables responsive and flexible tactile feedback without exposing the sensor directly.
+Soft TPU material is layered above the fingertip and force sensor, allowing analog pressure values to be read when compressed.
 </em></p>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/780776b2-6f83-41ed-af58-4b2ff6226d09" width="350" />
-  &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/56d0cb88-ba74-4a7c-ac9e-b05377ec0a86" width="350" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/780776b2-6f83-41ed-af58-4b2ff6226d09" width="350" />
 </p>
 ![photo_2025-04-25_01-53-26](https://github.com/user-attachments/assets/b8394736-d9b1-4a1b-b97f-0292cb9dd101)
 
