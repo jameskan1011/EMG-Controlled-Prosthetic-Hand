@@ -29,7 +29,7 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/822391f9-76e8-42d1-9fbb-bf10cdf9c174" autoplay loop muted playsinline width="700"></video>
+  <video src="https://github.com/user-attachments/assets/822391f9-76e8-42d1-9fbb-bf10cdf9c174" autoplay loop muted playsinline width="100"></video>
 </p>
 
 
