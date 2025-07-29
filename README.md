@@ -1,22 +1,41 @@
-# EMG-Controlled-Prosthetic-Hand
+# 🖐️ EMG-Controlled Prosthetic Hand
 
-This project features a wireless prosthetic hand system powered by EMG signal control. A wearable glove captures muscle activity and translates it into movement commands for a robotic hand. At the same time, force sensors on the robotic fingers detect contact pressure and send feedback signals wirelessly, activating a vibration motor on the glove. The entire bidirectional communication is handled efficiently using the ESP-NOW protocol.
+This project features a **wireless prosthetic hand system** powered by EMG signal control.  
+A wearable glove captures muscle activity and translates it into movement commands for a robotic hand.  
+Force sensors on the robotic fingers detect contact pressure and send feedback wirelessly to activate a **vibration motor** on the glove.  
+All communication is handled efficiently via the **ESP-NOW protocol** for real-time response.
 
 ---
-**Prosthetic Hand**
-<img width="577" height="682" alt="image" src="https://github.com/user-attachments/assets/3f7c741d-932a-406e-aa4f-482295ec2772" />
 
-**EMG Sensor Device**
-<img width="544" height="589" alt="image" src="https://github.com/user-attachments/assets/8de45357-c73d-4ae2-bb90-283512019173" />
-<img width="472" height="501" alt="image" src="https://github.com/user-attachments/assets/22d92ef4-f10d-440e-9ab8-04a788641ba1" />
+## 🤖 Prosthetic Hand
+
+<p align="center">
+  <img width="400" alt="Prosthetic Hand" src="https://github.com/user-attachments/assets/3f7c741d-932a-406e-aa4f-482295ec2772" />
+</p>
+
+---
+
+## 🧤 EMG Sensor Glove
+
+<p align="center">
+  <img width="300" alt="EMG Sensor Glove Front" src="https://github.com/user-attachments/assets/8de45357-c73d-4ae2-bb90-283512019173" />
+  &nbsp;&nbsp;&nbsp;
+  <img width="300" alt="EMG Sensor Glove Back" src="https://github.com/user-attachments/assets/22d92ef4-f10d-440e-9ab8-04a788641ba1" />
+</p>
+
+---
 
 ## 📽️ Demonstration
 
-> Grasping Objects using Pinch and Power Grip:  
-> <img width="856" height="545" alt="image" src="https://github.com/user-attachments/assets/c35c996a-1444-4b48-808f-dfc08860345b" />
+**Grasping Objects using Pinch and Power Grip**
 
+<p align="center">
+  <img width="700" alt="Grasp Demo" src="https://github.com/user-attachments/assets/c35c996a-1444-4b48-808f-dfc08860345b" />
+</p>
 
 ---
+
+
 
 ## 🎯 Project Objectives
 
