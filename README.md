@@ -1,7 +1,7 @@
 # EMG-Controlled Prosthetic Hand
 
 This project features a **wireless prosthetic hand system** powered by EMG signal control.  
-A wearable glove captures muscle activity and translates it into movement commands for a robotic hand.  
+A wearable EMG device captures muscle activity and translates it into movement commands for a robotic hand.  
 Force sensors on the robotic fingers detect contact pressure and send feedback wirelessly to activate a **vibration motor** on the glove.  
 All communication is handled efficiently via the **ESP-NOW protocol** for real-time response.
 
@@ -33,57 +33,13 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
   <img width="700" alt="Grasp Demo" src="https://github.com/user-attachments/assets/c35c996a-1444-4b48-808f-dfc08860345b" />
 </p>
 
----
-
-
-
-## 🎯 Project Objectives
-
-- Design and implement a wearable glove for teleoperation.
-- Read EMG muscle signals to control servos on a robotic hand.
-- Detect force from FSR sensors and provide real-time vibration feedback.
-- Use ESP-NOW protocol for low-latency wireless communication.
-
----
-
-## 🧰 System Overview
-
-### 🔁 Bidirectional Communication:
-
-| Sender (Glove)                      | Receiver (Robotic Hand)                |
-|------------------------------------|----------------------------------------|
-| EMG signal processing              | Servo control (5 channels)            |
-| Detect pins convert gestures       | FSR sensors monitor contact force     |
-| Sends servo angles via ESP-NOW     | Sends force flags via ESP-NOW         |
-| Vibration motor triggered by FSR   | Real-time feedback loop               |
-
-### 👇 Hardware Components:
-
-- **ESP32 SuperMini (x2)**
-- **EMG Muscle Sensor (4 channels)**
-- **FSR Force Sensors (5 units)**
-- **Vibration Motor**
-- **Servos (5x SG90 or MG90s)**
-- **Glove platform**
 
 ---
 
 ## 🧠 Features
 
-- **Gesture Recognition:** EMG + digital detect pins convert muscle activity into finger movements.
-- **Wireless Feedback:** Robotic hand returns force data, triggering vibration motor on glove.
-- **Real-Time Response:** ESP-NOW ensures low-latency two-way control.
-- **Scalable Design:** Easily adaptable to full robotic arms or VR-based systems.
-
----
-
-## 🧪 Testing & Results
-
-- **Latency:** Less than 100ms round-trip delay.
-- **Accuracy:** Consistent mapping of EMG gestures to servo positions.
-- **Robustness:** Maintained stable communication within 5 meters indoors.
-
----
-
-## 🗺️ Folder Structure
+- **Pinch and Power Grip Control:** Specific EMG signals trigger predefined hand movements — either pinch or power grip — based on which sensor is activated.
+- **Wireless Haptic Feedback:** FSR sensors on the prosthetic fingers detect contact force and activate a vibration motor on the wearable in real-time.
+- **Low-Latency Communication:** ESP-NOW enables fast, two-way communication between the wearable and robotic hand without needing a Wi-Fi network.
+- **Compact and Lightweight:** Designed for wearable use, the system minimizes bulk and weight for user comfort and mobility.
 
