@@ -45,7 +45,7 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 ## 🧠 Features
 <h3 align="center">Sensor Feedback</h3>
-<p align="center"><em>
+<p align="left"><em>
 Soft TPU material is layered above the fingertip and force sensor, allowing analog pressure values to be read when compressed.
 </em></p>
 <p align="center">
@@ -53,17 +53,15 @@ Soft TPU material is layered above the fingertip and force sensor, allowing anal
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/780776b2-6f83-41ed-af58-4b2ff6226d09" width="350" />
 </p>
+
+
+<p align="left"><em>
+Each of the five servos is responsible for controlling an individual finger on the prosthetic hand, enabling coordinated grasping movements.
+</em></p>
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b8394736-d9b1-4a1b-b97f-0292cb9dd101" width="500" />
 </p>
 
-<p align="center"><em>
-Each of the five servos is responsible for controlling an individual finger on the prosthetic hand, enabling coordinated grasping movements.
-</em></p>
 
 
-- **Pinch and Power Grip Control:** Specific EMG signals trigger predefined hand movements — either pinch or power grip — based on which sensor is activated.
-- **Wireless Haptic Feedback:** FSR sensors on the prosthetic fingers detect contact force and activate a vibration motor on the wearable in real-time.
-- **Low-Latency Communication:** ESP-NOW enables fast, two-way communication between the wearable and robotic hand without needing a Wi-Fi network.
-- **Compact and Lightweight:** Designed for wearable use, the system minimizes bulk and weight for user comfort and mobility.
 
