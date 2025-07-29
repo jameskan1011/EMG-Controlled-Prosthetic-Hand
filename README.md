@@ -27,7 +27,12 @@ All communication is handled efficiently via the **ESP-NOW protocol** for real-t
 
 ## 📽️ Demonstration
 
+
+https://github.com/user-attachments/assets/822391f9-76e8-42d1-9fbb-bf10cdf9c174
+
+
 **Grasping Objects using Pinch and Power Grip**
+
 
 <p align="center">
   <img width="700" alt="Grasp Demo" src="https://github.com/user-attachments/assets/c35c996a-1444-4b48-808f-dfc08860345b" />
