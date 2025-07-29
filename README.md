@@ -53,7 +53,13 @@ Soft TPU material is layered above the fingertip and force sensor, allowing anal
   &nbsp;&nbsp;&nbsp;
   <img src="https://github.com/user-attachments/assets/780776b2-6f83-41ed-af58-4b2ff6226d09" width="350" />
 </p>
-![photo_2025-04-25_01-53-26](https://github.com/user-attachments/assets/b8394736-d9b1-4a1b-b97f-0292cb9dd101)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8394736-d9b1-4a1b-b97f-0292cb9dd101" width="500" />
+</p>
+
+<p align="center"><em>
+Each of the five servos is responsible for controlling an individual finger on the prosthetic hand, enabling coordinated grasping movements.
+</em></p>
 
 
 - **Pinch and Power Grip Control:** Specific EMG signals trigger predefined hand movements — either pinch or power grip — based on which sensor is activated.
