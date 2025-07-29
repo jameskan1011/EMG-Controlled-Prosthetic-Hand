@@ -1,0 +1,1 @@
+# EMG-Controlled-Prosthetic-Hand
